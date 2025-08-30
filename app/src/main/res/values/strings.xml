@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_service_description">Detects URLs to check for malware</string>
+</resources>
